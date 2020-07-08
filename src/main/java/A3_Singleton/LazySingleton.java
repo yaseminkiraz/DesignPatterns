@@ -1,4 +1,4 @@
-package Singleton;
+package A3_Singleton;
 
 public class LazySingleton {
     private static LazySingleton ourInstance;
@@ -14,6 +14,6 @@ public class LazySingleton {
     }
 
     public void toText() {
-        System.out.println("Singleton.LazySingleton");
+        System.out.println("A3_Singleton.LazySingleton");
     }
 }

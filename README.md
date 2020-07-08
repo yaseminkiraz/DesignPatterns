@@ -1,9 +1,9 @@
 # DesignPatterns
 
 # A.Creational Design Patterns
- 1. Factory
- 2. Abstract Factory
- 3. Singleton
+ 1. A1_Factory
+ 2. Abstract A1_Factory
+ 3. A3_Singleton
  4. Builder
  5. Prototype
  6. Object Pool

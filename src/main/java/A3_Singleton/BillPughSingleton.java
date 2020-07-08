@@ -1,4 +1,4 @@
-package Singleton;
+package A3_Singleton;
 
 public class BillPughSingleton {
     private BillPughSingleton()
@@ -18,7 +18,7 @@ public class BillPughSingleton {
     }
 
     public void toText() {
-        System.out.println("Singleton.BillPughSingleton");
+        System.out.println("A3_Singleton.BillPughSingleton");
     }
 
 }

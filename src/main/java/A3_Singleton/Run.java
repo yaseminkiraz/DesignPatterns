@@ -1,4 +1,4 @@
-package Singleton;
+package A3_Singleton;
 
 public class Run {
     public static void main(String[] args){

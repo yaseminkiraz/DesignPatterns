@@ -1,4 +1,4 @@
-package Singleton;
+package A3_Singleton;
 
 public class StaticBlockSingleton {
     private static StaticBlockSingleton ourInstance;
@@ -11,7 +11,7 @@ public class StaticBlockSingleton {
         }
         catch (Exception e)
         {
-            System.out.println("Singleton.StaticBlockSingleton exception.");
+            System.out.println("A3_Singleton.StaticBlockSingleton exception.");
         }
     }
 
@@ -25,6 +25,6 @@ public class StaticBlockSingleton {
     }
 
     public void toText() {
-        System.out.println("Singleton.StaticBlockSingleton");
+        System.out.println("A3_Singleton.StaticBlockSingleton");
     }
 }

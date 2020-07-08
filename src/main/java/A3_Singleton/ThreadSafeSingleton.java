@@ -1,4 +1,4 @@
-package Singleton;
+package A3_Singleton;
 
 public class ThreadSafeSingleton {
     private static ThreadSafeSingleton ourInstance;
@@ -15,6 +15,6 @@ public class ThreadSafeSingleton {
     }
 
     public void toText() {
-        System.out.println("Singleton.ThreadSafeSingleton");
+        System.out.println("A3_Singleton.ThreadSafeSingleton");
     }
 }

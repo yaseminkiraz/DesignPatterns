@@ -1,4 +1,4 @@
-package Singleton;
+package A3_Singleton;
 
 public class EagerInitializationSingleton {
     //Not Thread Safe
@@ -13,6 +13,6 @@ public class EagerInitializationSingleton {
     }
 
     public void toText() {
-        System.out.println("Singleton.EagerInitializationSingleton");
+        System.out.println("A3_Singleton.EagerInitializationSingleton");
     }
 }

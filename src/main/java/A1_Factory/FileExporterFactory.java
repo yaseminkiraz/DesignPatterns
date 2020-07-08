@@ -1,4 +1,4 @@
-package Factory;
+package A1_Factory;
 
 public class FileExporterFactory {
     public static FileExporter getInstance(FileType fileType)
