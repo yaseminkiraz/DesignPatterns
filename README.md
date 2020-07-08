@@ -2,7 +2,7 @@
 
 # A.Creational Design Patterns
  1. Factory
- 2. Abstract A1_Factory
+ 2. Abstract Factory
  3. Singleton
  4. Builder
  5. Prototype
